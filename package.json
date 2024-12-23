@@ -1,0 +1,21 @@
+{
+  "name": "improved-vanilla-motor",
+  "version": "1.0.0",
+  "description": "un motor de videojuegos hecho con TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "echo \"No hay tests configurados\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.5"
+  }
+}
